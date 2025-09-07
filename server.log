@@ -1,0 +1,8 @@
+ * Serving Flask app 'app'
+ * Debug mode: off
+[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.30.0.2:8000
+[33mPress CTRL+C to quit[0m
+127.0.0.1 - - [23/Aug/2025 19:57:37] "GET /api/scorecard?url=https://cric.hamariweb.com/cricket/south_africa_vs_australia_3rd_odi_scorecard5696.aspx HTTP/1.1" 200 -
