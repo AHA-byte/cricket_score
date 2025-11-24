@@ -19,9 +19,9 @@ pip install -r requirements.txt
 
 If venv is unavailable on your system, you can install with:
 
-```
+```'
 pip install --break-system-packages --user -r requirements.txt
-```
+```'
 
 2) Start the server
 
